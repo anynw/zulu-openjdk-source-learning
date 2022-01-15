@@ -1,4 +1,4 @@
-package com.wuhp.thread;
+package com.wuhp.thread.case2;
 
 /**
  * @author wuhp
