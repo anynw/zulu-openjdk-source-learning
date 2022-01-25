@@ -16,5 +16,9 @@ public class Test {
             // System.out.println(map.get("hello" + i));
         }
         System.out.println();
+        System.out.println(Math.log10(2));
+        System.out.println("Math.log(10) = " + Math.log(10));
+        System.out.println("Math.log10(100) = " + Math.log10(100));
+
     }
 }
